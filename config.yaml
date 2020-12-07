@@ -6,7 +6,7 @@ params:
   accent_color: green
   header:
     title: Exto
-    has_nav: false
+    has_nav: true
     nav_links:
       - label: Home
         url: /
