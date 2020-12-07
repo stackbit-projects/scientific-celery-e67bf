@@ -14,9 +14,6 @@ params:
       - label: Darbi
         url: /portfolio/
         style: link
-      - label: Blog
-        url: /blog/
-        style: link
       - label: Style Guide
         url: /style-guide/
         style: link
