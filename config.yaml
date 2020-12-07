@@ -11,7 +11,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Portfolio
+      - label: Darbi
         url: /portfolio/
         style: link
       - label: Blog
